@@ -1,2 +1,1 @@
 # RageUI
-RageUI
